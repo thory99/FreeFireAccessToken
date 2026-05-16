@@ -8,6 +8,10 @@ Designed for educational research, backend testing, and development practice.
 
 ## 🚀 Highlights
 
+
+## 🚀USE THIS
+https://freefire.us.cc/
+
 ✔️ Fast token generation flow  
 ✔️ Minimal and responsive interface  
 ✔️ Lightweight performance  
